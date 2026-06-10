@@ -71,6 +71,8 @@ Concept variants:
 
 ## Fusion 360 project
 
+The design files live in the EPL project in Fusion 360, under: **EPL > Shop Tools > Boom Snorkel**
+
 ![Fusion 360 parts browser](images/IMG_1843.jpeg)
 
 ## PVC spec
