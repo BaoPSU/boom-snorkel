@@ -6,9 +6,9 @@ Open source 3D printed articulating fume extraction arm. Mounts to a bench T-slo
 
 ## How it works
 
-An M8 threaded rod runs through the entire arm. The 3D printed joints have wave-face (serrated) mating surfaces. When the knob is loose, joints rotate freely. Tighten the knob and the wave faces mesh together, locking every joint in position simultaneously.
+An M8 threaded rod runs through the joints. The 3D printed joints have wave-face (serrated) mating surfaces. When the knob is loose, joints rotate freely. Tighten the knob and the wave faces mesh together, locking every joint in position simultaneously.
 
-A small PVC or 3D printed alignment ring sits between each joint to keep the wave faces registered. This stops the joint from drifting side to side when rotating and ensures the waves lock cleanly every time.
+A small PVC or 3D printed alignment ring sits between each joint to keep the wave faces aligned. This stops the joint from drifting side to side when rotating and ensures the waves lock cleanly every time.
 
 The black flexible snake tube from the original fume extractor attaches via a tapered press-fit adapter, so you keep the original intake nozzle.
 
@@ -56,7 +56,7 @@ Concept variants:
 
 1. Cut 2" Schedule 40 PVC to desired segment lengths
 2. Assemble bolt heads (superglue two square nuts, jam together)
-3. Thread M8 rod through joints, alignment rings, and PVC segments with washers
+3. Thread M8 rod through joints and alignment rings with washers
 4. Clip mounting bracket onto bench T-slot rail
 5. Press snake adapter onto intake end, attach snake tube
 6. Hand-tighten knob to desired stiffness
