@@ -13,6 +13,10 @@ This file tracks known issues and suggested changes to hand off to the next pers
   - Alignment rings
   - Adapters (PVC side only -- keep the snake tube and filter tube fits as they are)
 
+## Rectangular mesh cover
+
+- **Fits loosely** -- the rectangular mesh filter cover does not grip the original adjustable black pipe well. Redesign with deeper and thicker grooves so it holds on securely.
+
 ## To be continued...
 
 Add new improvement notes here as you find them.
