@@ -1,8 +1,6 @@
 # Boom Snorkel
 
-Open source 3D printed articulating fume extraction arm. Mounts to a bench T-slot rail and positions the intake snout over your work area. Fully repositionable -- loosen the M8 knob, move it, retighten.
-
-![Boom Snorkel installed on bench](images/full_assembly.jpeg)
+Open source 3D printed articulating fume extraction arm. Mounts to a bench T-slot rail and positions the intake snout over your work area. Fully repositionable -- loosen the knob, move it, retighten.
 
 ## How it works
 
@@ -15,11 +13,18 @@ The black flexible snake tube from the original fume extractor attaches via a ta
 | Part | Spec | Notes |
 |---|---|---|
 | PVC pipe | 2" Schedule 40 (e.g. 7200-0600) | Cut to desired segment lengths |
-| M8 threaded rod | Length = total arm span | Runs full length of arm |
-| M8 knob nuts | x2 | Red knob style for hand tightening |
-| 3D printed joints | See prints below | PLA or PETG, lime green in reference build |
-| 3D printed snake adapter | See prints below | Press-fit to existing snake tube |
-| 3D printed mounting bracket | See prints below | Clips to bench T-slot rail |
+| M8 threaded rod | Cut to total arm length | One per arm |
+| 13x13x4mm square nuts | x2 per bolt | Superglued together as bolt head (see below) |
+| M8 washers | As needed | Under each nut stack and knob |
+| Super glue | -- | Bonds the two-nut bolt head |
+| 3D printed knob nuts | Red, square 13x13mm pocket | See prints |
+| 3D printed joints | Wave-face locking surfaces | See prints |
+| 3D printed snake adapter | Tapered press-fit | See prints |
+| 3D printed filter adapter | -- | See prints |
+
+## Bolt assembly
+
+Cut M8 rod to length. Superglue two 13x13x4mm square nuts together and thread onto one end -- tighten them against each other (jam nuts) before the glue sets. This double-nut stack slides into the square pocket of the 3D printed knob so the nut doesn't spin when you turn it. Cap the other end with a washer and nut.
 
 ## Prints
 
@@ -27,9 +32,10 @@ The black flexible snake tube from the original fume extractor attaches via a ta
 |---|---|
 | `joint.stl` | Articulating joint with wave-face locking surfaces |
 | `snake_adapter.stl` | Tapered adapter for standard flexible fume extractor snake tube |
-| `mounting_bracket.stl` | Clips to bench T-slot / pegboard rail |
+| `filter_adapter.stl` | Adapter for filter end |
+| `knob_nut.stl` | Red knob with 13x13mm square nut pocket |
 
-Variants in the Fusion 360 project:
+Concept variants:
 - **Original** -- baseline joint design
 - **Extended** -- longer arm reach
 - **Stubby** -- shorter segment for tight spaces
@@ -38,11 +44,12 @@ Variants in the Fusion 360 project:
 ## Assembly
 
 1. Cut 2" Schedule 40 PVC to desired segment lengths
-2. Thread M8 rod through all joints and PVC segments
-3. Clip mounting bracket onto bench T-slot rail
-4. Press snake adapter onto end of arm, attach snake tube
-5. Hand-tighten M8 knob to desired stiffness
-6. Loosen to reposition, retighten to lock
+2. Assemble bolt heads (superglue two square nuts, jam together)
+3. Thread M8 rod through all joints and PVC segments with washers
+4. Clip mounting bracket onto bench T-slot rail
+5. Press snake adapter onto intake end, attach snake tube
+6. Hand-tighten knob to desired stiffness
+7. Loosen to reposition, retighten to lock
 
 ## License
 
