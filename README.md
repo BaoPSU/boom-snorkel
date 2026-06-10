@@ -10,7 +10,7 @@ An M8 threaded rod runs through the joints. The 3D printed joints have wave-face
 
 A small PVC or 3D printed alignment ring sits between each joint to keep the wave faces aligned. This stops the joint from drifting side to side when rotating and ensures the waves lock cleanly every time.
 
-The black flexible snake tube from the original fume extractor attaches via a 3D printed tapered press-fit adapter, so you keep the original intake nozzle.
+Both ends reuse parts from the original fume extractor. At the intake end, the black flexible snake tube attaches via a 3D printed tapered press-fit adapter, so you keep the original intake nozzle. At the back end, a 3D printed filter adapter connects the arm to the filter's original floppy corrugated tube.
 
 ![Snake adapter connection](images/IMG_1846.jpeg)
 
@@ -28,7 +28,7 @@ The black flexible snake tube from the original fume extractor attaches via a 3D
 | 3D printed alignment rings | Or cut from PVC | One between each joint pair |
 | 3D printed snake adapter | Tapered press-fit | See prints |
 | 3D printed table mounts | Knob + rod clamp | See prints |
-| 3D printed filter adapter | -- | See prints |
+| 3D printed filter adapter | Connects to original filter tube | See prints |
 | M8 hex nuts | One per table mount | Seats under the mount, rod presses on tube |
 
 ## Table mounts
@@ -46,7 +46,7 @@ Cut M8 rod to length. Superglue two 13x13x4mm square nuts together and thread on
 | `joint.stl` | Articulating joint with wave-face locking surfaces |
 | `alignment_ring.stl` | Ring between joints to prevent side-to-side drift |
 | `snake_adapter.stl` | Tapered adapter for standard flexible fume extractor snake tube |
-| `filter_adapter.stl` | Adapter for filter end |
+| `filter_adapter.stl` | Connects the back of the arm to the original filter's floppy corrugated tube |
 | `knob_nut.stl` | Red knob with 13x13mm square nut pocket |
 | `table_mount.stl` | Clamps to bench shelf, knob-driven rod pins the tube |
 
