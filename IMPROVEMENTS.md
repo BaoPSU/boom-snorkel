@@ -17,6 +17,10 @@ This file tracks known issues and suggested changes to hand off to the next pers
 
 - **Fits loosely** -- the rectangular mesh filter cover does not grip the original adjustable black pipe well. Redesign with deeper and thicker grooves so it holds on securely.
 
+## Spring clutch
+
+- **Design a spring clutch for the joints** -- lets the user simply rotate the joint to a new position without loosening anything, and protects the wave teeth from damage by slipping under overload instead of breaking. Stack order: red knob, spring, M8 washer, then the joint. This was tested and the concept works, but the springs on hand were not strong enough -- source stiffer springs.
+
 ## To be continued...
 
 Add new improvement notes here as you find them.
