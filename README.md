@@ -10,7 +10,7 @@ An M8 threaded rod runs through the joints. The 3D printed joints have wave-face
 
 A small PVC or 3D printed alignment ring sits between each joint to keep the wave faces aligned. This stops the joint from drifting side to side when rotating and ensures the waves lock cleanly every time.
 
-The black flexible snake tube from the original fume extractor attaches via a tapered press-fit adapter, so you keep the original intake nozzle.
+The black flexible snake tube from the original fume extractor attaches via a 3D printed tapered press-fit adapter, so you keep the original intake nozzle.
 
 ![Snake adapter connection](images/IMG_1846.jpeg)
 
