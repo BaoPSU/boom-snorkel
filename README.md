@@ -27,7 +27,13 @@ The black flexible snake tube from the original fume extractor attaches via a 3D
 | 3D printed joints | Wave-face locking surfaces | See prints |
 | 3D printed alignment rings | Or cut from PVC | One between each joint pair |
 | 3D printed snake adapter | Tapered press-fit | See prints |
+| 3D printed table mounts | Knob + rod clamp | See prints |
 | 3D printed filter adapter | -- | See prints |
+| M8 hex nuts | One per table mount | Seats under the mount, rod presses on tube |
+
+## Table mounts
+
+The arm rests in 3D printed table mounts clamped to the bench shelf. They reuse the same knob + threaded rod design as the joints, but with an M8 hex nut seated underneath: tightening the knob drives the rod against the side of the tube, pinning it in place.
 
 ## Bolt assembly
 
@@ -42,6 +48,7 @@ Cut M8 rod to length. Superglue two 13x13x4mm square nuts together and thread on
 | `snake_adapter.stl` | Tapered adapter for standard flexible fume extractor snake tube |
 | `filter_adapter.stl` | Adapter for filter end |
 | `knob_nut.stl` | Red knob with 13x13mm square nut pocket |
+| `table_mount.stl` | Clamps to bench shelf, knob-driven rod pins the tube |
 
 Concept variants:
 - **Original** -- baseline joint design
@@ -57,7 +64,7 @@ Concept variants:
 1. Cut 2" Schedule 40 PVC to desired segment lengths
 2. Assemble bolt heads (superglue two square nuts, jam together)
 3. Thread M8 rod through joints and alignment rings with washers
-4. Clip mounting bracket onto bench T-slot rail
+4. Set the tube into the table mounts and tighten the knobs -- the threaded rod presses against the side of the tube to hold it
 5. Press snake adapter onto intake end, attach snake tube
 6. Hand-tighten knob to desired stiffness
 7. Loosen to reposition, retighten to lock
